@@ -1,0 +1,5 @@
+## Title: LibCallback |cffbebebeby Jayrgo|r
+## Author: Jayrgo
+## Version: 1.0.0
+
+LibCallback.lua
