@@ -13,7 +13,7 @@ jobs:
         run: |
           echo "NAME=LibCallback" >> $GITHUB_ENV
           echo "INTERFACE_RETAIL=90001" >> $GITHUB_ENV
-          echo "INTERFACE_CLASSIC=11350" >> $GITHUB_ENV
+          echo "INTERFACE_CLASSIC=11305" >> $GITHUB_ENV
       - name: Checkout
         uses: actions/checkout@v2
       - name: luacheck
